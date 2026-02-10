@@ -22,5 +22,4 @@ In case of external AI failure, a graceful fallback response is returned.
 - Express
 
 ## Author
-Your Name  
-your_roll@chitkara.edu.in
+Naman Singh
